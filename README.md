@@ -68,6 +68,3 @@ The data is used to analyse patterns and predict the likelihood of diabetes.
 - Achieved reasonable accuracy with a simple model
 
 ---
-
-## 📂 Project Structure
-
